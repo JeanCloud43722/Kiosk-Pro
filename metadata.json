@@ -1,0 +1,7 @@
+{
+  "name": "KioskPackagePro",
+  "description": "A high-performance, mobile-first package management app for kiosk owners. Features instant camera scanning and OCR extraction for tracking IDs and recipient names.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
